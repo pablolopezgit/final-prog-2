@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1626193053 source:c:\users\camila ila pupila\downloads\pablo-facultad\01. programacion-2\_final-prog2\mock\main.cpp
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1626650565 source:c:\users\palau\downloads\pablo-facultad\01. programacion-2\final\mock\main.cpp
+	<iostream>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
